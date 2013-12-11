@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Blackjack2.0" EntryPointType="Blackjack2._0.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Blackjack2.0" Source="Blackjack2.0.dll" />
+  </Deployment.Parts>
+</Deployment>

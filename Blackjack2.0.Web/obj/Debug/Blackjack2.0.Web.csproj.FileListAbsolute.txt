@@ -1,0 +1,10 @@
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0.Web\bin\Blackjack2.0.Web.dll
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0.Web\bin\Blackjack2.0.Web.pdb
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0.Web\obj\Debug\Blackjack2.0.Web.dll
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0.Web\obj\Debug\Blackjack2.0.Web.pdb
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0.Web\obj\Debug\Blackjack2.0.Web.csprojResolveAssemblyReference.cache
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0.Web\bin\Blackjack2.0.Web.dll
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0.Web\bin\Blackjack2.0.Web.pdb
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0.Web\obj\Debug\Blackjack2.0.Web.csprojResolveAssemblyReference.cache
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0.Web\obj\Debug\Blackjack2.0.Web.dll
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0.Web\obj\Debug\Blackjack2.0.Web.pdb

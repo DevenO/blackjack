@@ -1,0 +1,7 @@
+Other notes
+
+bugs
+
+minor bugs
+	if all active players (i.e. one single player) has a blackjack, the dealer still plays out the full hand.
+	block out strategy choice on startup box if not computer radio button

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack2.0", "Blackjack2.0\Blackjack2.0.csproj", "{6C632867-FDED-448B-9880-CA204E85569A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack2.0.Web", "Blackjack2.0.Web\Blackjack2.0.Web.csproj", "{5CBA9CD2-A2CB-4525-9447-4907605A9C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C632867-FDED-448B-9880-CA204E85569A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C632867-FDED-448B-9880-CA204E85569A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C632867-FDED-448B-9880-CA204E85569A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C632867-FDED-448B-9880-CA204E85569A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBA9CD2-A2CB-4525-9447-4907605A9C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBA9CD2-A2CB-4525-9447-4907605A9C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBA9CD2-A2CB-4525-9447-4907605A9C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBA9CD2-A2CB-4525-9447-4907605A9C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

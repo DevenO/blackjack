@@ -1,0 +1,24 @@
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\Blackjack2.0.dll
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\Blackjack2.0.pdb
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\AppManifest.xaml
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\Blackjack2.0.xap
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\Blackjack2._0TestPage.html
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\App.g.cs
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\MainPage.g.cs
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\Blackjack2.0.g.resources
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\Blackjack2.0.dll
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\Blackjack2.0.pdb
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\XapCacheFile.xml
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\Blackjack2.0.dll
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\Blackjack2.0.pdb
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\AppManifest.xaml
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\Blackjack2.0.xap
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\Bin\Debug\Blackjack2._0TestPage.html
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\Blackjack2.0.csprojResolveAssemblyReference.cache
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\App.g.cs
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\MainPage.g.cs
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\Blackjack2.0.g.resources
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\Blackjack2.0.dll
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\Blackjack2.0.pdb
+C:\Users\Deven\Desktop\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\XapCacheFile.xml
+C:\Users\isdor\Desktop\Travel Stuff\Blackjack\Blackjack2.0\Blackjack2.0\obj\Debug\Blackjack2.0.csprojResolveAssemblyReference.cache
